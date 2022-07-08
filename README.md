@@ -13,7 +13,7 @@
 [![raminka's github stats](https://github-readme-stats.vercel.app/api?username=raminka13&show_icons=true)](https://github.com/raminka13)
 
 <a href="https://github.com/raminka13?tab=repositories">
-  <img width="500px" src="https://github-readme-stats.raminka13.vercel.app/api/top-langs/?username=raminka13&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raminka13&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
 </a>
 <!---
 raminka13/raminka13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
