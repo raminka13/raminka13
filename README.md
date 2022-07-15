@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Tech, Nature, Evolution, Life.
 - 🌱 I’m currently learning ... html, css, javascript.
 - 💞️ I’m looking to collaborate on any project that help me learn new concepts.
+- 🌎 I'm open for hire as a remote developer.
 
 ### 📫 How to reach me:
 - GitHub: [@raminka13](https://github.com/raminka13)
