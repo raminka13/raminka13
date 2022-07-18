@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @raminka13
-- 👀 I’m interested in ... Tech, Nature, Evolution, Life.
-- 🌱 I’m currently learning ... html, css, javascript.
+- 👀 I’m interested in ... Tech, Nature, Evolution, Life & kindness.
 - 💞️ I’m looking to collaborate on any project that help me learn new concepts.
 - 🌎 I'm open for hire as a remote developer.
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 📫 How to reach me:
 - GitHub: [@raminka13](https://github.com/raminka13)
